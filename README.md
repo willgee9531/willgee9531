@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Williams
-- 👀 I’m interested in data
-- 🌱 I’m currently learning software engineering with alx 
+- 👀 I’m interested in Software
+- 🌱 I’m currently a newbie software engineer 
 - 💞️ I’m looking to collaborate on bigger projects
 - 📫 How to reach me willgee9531@gmail.com
 

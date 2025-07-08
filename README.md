@@ -1,6 +1,6 @@
 [![FingerPrints Tech Hub Banner]()](https://www.linkedin.com/in/godwin-williams)
 <h1 align="center">Hi 👋, I'm Godwin Williams</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h3 align="center">A Passionate Software and Data Engineer from Nigeria</h3>
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdmMGw4cDVoZjF5OGx3dWVkZ2ZzNjkwZHZ6c3g3N3h1bXlxdzc3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif" />
 
 <p align="left"> <a href="https://twitter.com/mastersocapicks" target="blank"><img src="https://img.shields.io/twitter/follow/mastersocapicks?logo=twitter&style=for-the-badge" alt="mastersocapicks" /></a> </p>
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, Data Structure and Algorithm**
 
-- 👯 I’m looking to collaborate on **FingerPrints Tech Hub**
+- 👯 I’m looking to collaborate on **FingerPrints Tech Hub Learning platform**
 
 - 🤝 I’m looking for help with [FingerNotes Desktop App](https://github.com/willgee9531/FN_enote)
 

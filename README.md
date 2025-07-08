@@ -1,7 +1,7 @@
-[![FingerPrints Tech Hub Banner]()](https://www.linkedin.com/in/godwin-williams)
+[![FingerPrints Tech Hub Banner](https://github.com/willgee9531/willgee9531/blob/main/linkedin_banner%20(2).png)](https://www.linkedin.com/in/godwin-williams)
 <h1 align="center">Hi 👋, I'm Godwin Williams</h1>
 <h3 align="center">A Passionate Software and Data Engineer from Nigeria</h3>
-<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdmMGw4cDVoZjF5OGx3dWVkZ2ZzNjkwZHZ6c3g3N3h1bXlxdzc3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif" />
+<img align="right" width="400" alt="coding" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGdmMGw4cDVoZjF5OGx3dWVkZ2ZzNjkwZHZ6c3g3N3h1bXlxdzc3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QHE5gWI0QjqF2/giphy.gif" />
 
 <p align="left"> <a href="https://twitter.com/mastersocapicks" target="blank"><img src="https://img.shields.io/twitter/follow/mastersocapicks?logo=twitter&style=for-the-badge" alt="mastersocapicks" /></a> </p>
 

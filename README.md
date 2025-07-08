@@ -13,9 +13,9 @@
 
 - 🤝 I’m looking for help with [FingerNotes Desktop App](https://github.com/willgee9531/FN_enote)
 
-- 👨‍💻 All of my projects are available at [https://github.com/willgee9531?tab=repositories](https://github.com/willgee9531?tab=repositories)
+- 👨‍💻 All of my projects are available at [my repository](https://github.com/willgee9531?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@willgee9531](https://medium.com/@willgee9531)
+- 📝 I regularly write articles on [Medium](https://medium.com/@willgee9531)
 
 - 💬 Ask me about **Nigerian Jollof Rice...**
 
